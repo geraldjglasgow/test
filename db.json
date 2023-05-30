@@ -1,0 +1,26 @@
+{
+  "guest": 
+    {
+      "jwt": "aksdfjalksfkjasllk23fjlk23j2lfk23jlk",
+    },
+  "games": [
+  {
+    "type": "Base",
+    "map": "Base",
+    "speed": "Slow",
+    "players": 2
+  },
+  {
+    "type": "Base",
+    "map": "Base",
+    "speed": "Slow",
+    "players": 2
+  },
+  {
+    "type": "Base",
+    "map": "Base",
+    "speed": "Slow",
+    "players": 2
+  }
+]
+}
